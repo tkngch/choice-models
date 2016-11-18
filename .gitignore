@@ -3,6 +3,3 @@
 
 # Unignore all with extensions
 !*.*
-
-# DbS is not yet published
-dbs/*
