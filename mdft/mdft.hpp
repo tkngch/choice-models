@@ -1,6 +1,7 @@
 // Copyright (C) 2015 Takao Noguchi (tkngch@runbox.com)
 
 #include <iostream>
+#include <random>
 #include <vector>
 #include <eigen3/Eigen/Dense>
 #include <eigen3/Eigen/Eigenvalues>
