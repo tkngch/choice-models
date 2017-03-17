@@ -4,20 +4,20 @@ Psychological models of decision making are hosted here.
 
 * aam: Associative Accumulation Model.
 
- * Bhatia, S. (2013). Associations and the accumulation of preference.
-   *Psychological Review, 120,* 522-543.
+  * Bhatia, S. (2013). Associations and the accumulation of preference.
+    *Psychological Review, 120,* 522-543.
 
 * mdft: Multi-alternative Decision Field Theory.
 
- * Roe, R. M., Busemeyer, J. R., & Townsend, J. T. (2001). Multialternative
-   decision field theory: A dynamic connectionist model of decision making.
-   *Psychological Review, 108,* 370-392.
+  * Roe, R. M., Busemeyer, J. R., & Townsend, J. T. (2001). Multialternative
+    decision field theory: A dynamic connectionist model of decision making.
+    *Psychological Review, 108,* 370-392.
 
 * mlba: Multiattribute Linear Ballistic Accumulator Model.
 
- * Trueblood, J. S., Brown, S. D., & Heathcote, A. (2014). The multi-attribute
-   linear ballistic accumulator model of context effects in multi-alternative
-   choice.  *Psychological Review, 121,* 179-205.
+  * Trueblood, J. S., Brown, S. D., & Heathcote, A. (2014). The multi-attribute
+    linear ballistic accumulator model of context effects in multi-alternative
+    choice.  *Psychological Review, 121,* 179-205.
 
 
 ## Licence
