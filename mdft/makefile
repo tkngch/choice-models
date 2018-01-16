@@ -2,9 +2,8 @@ CC=g++
 CFLAGS=-O2 -Wall -Wextra -std=c++11
 MVTNORM=./libMvtnorm
 MVTFILES=$(wildcard $(MVTNORM)/*.o $(MVTNORM)/*.h)
-LINKPATH=/home/takao/lib/cpp
+LINKPATH=$(HOME)/lib/cpp
 FORMAT=clang-format -style="LLVM" -i
-
 
 .PHONY: default link format
 

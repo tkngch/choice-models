@@ -7,6 +7,11 @@ Psychological models of decision making are hosted here.
   * Bhatia, S. (2013). Associations and the accumulation of preference.
     *Psychological Review, 120,* 522-543.
 
+* dbs: Multialternative Decision by Sampling.
+
+  * Noguchi, T., & Stewart, N. (in press). Multialternative decision by sampling:
+  A model of decision making constrained by process data. *Psychological Review*.
+
 * mdft: Multi-alternative Decision Field Theory.
 
   * Roe, R. M., Busemeyer, J. R., & Townsend, J. T. (2001). Multialternative
@@ -22,7 +27,7 @@ Psychological models of decision making are hosted here.
 
 ## Licence
 
-Copyright (c) 2015 Takao Noguchi (tkngch@runbox.com)
+Copyright (c) 2015-2018 Takao Noguchi (tkngch@runbox.com)
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software

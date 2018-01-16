@@ -1,5 +1,15 @@
 # Ignore all
 *
-
-# Unignore all with extensions
+# unignores anything that is a directory
+!*/
+# Unignore all files with an extension
 !*.*
+
+*.swp
+
+*.o
+*.so
+*.a
+eigenmvn
+libMvtnorm
+mvtnorm.h
