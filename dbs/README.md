@@ -1,9 +1,17 @@
 # Multialternative Decision by Sampling
 
-This is an implementation of the DbS in C++ with R interface. An example script with the R interface is script.R.
+This is an implementation of the DbS in C++ with R interface.
 
 - Noguchi, T., & Stewart, N. (in press). Multialternative decision by sampling:
   A model of decision making constrained by process data. *Psychological Review*.
+
+## Description
+
+- dbs.hpp and dbs.cpp: main model implementation
+- test.hpp and test.cpp: test for the model implementation
+- libdbs_r.cpp: R interface
+- script.R: example with the R interface
+- walk\_through.py: The walk through calculation as used in Appendix C in the above paper. This script depends only on numpy, and does not depend on other files in this repo.
 
 ## Dependencies
 
